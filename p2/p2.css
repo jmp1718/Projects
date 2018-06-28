@@ -1,0 +1,99 @@
+ body{  
+         background-image: url("img03.jpg");
+         background-repeat: no-repeat;
+         background-position: center;
+         background-color: lightblue;
+    }
+
+h1 {
+    color: lightblue;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+footer{
+    color: red;
+}
+
+div {
+    border: 1px solid black
+    margin-top: 100px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightblue;
+    max-width:1000px;
+}
+
+td {
+    padding: 10px;
+    width: 300px;
+    height: 200px;
+    text-align: justify;
+}
+
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+
+li a {
+    display: block;
+    color: lightblue;
+    text-decoration: none;
+}
+
+#jumbo{
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightblue;
+    height: 100px;
+    max-width:1000px;
+}
+
+#nav1{
+     background:transparent;
+    border-color:transparent;
+}
+
+#fau{
+    text-align:center;
+}
+
+#code{
+    text-decoration: underline;
+}
+
+.navbar-collapse.collapse {
+display: block;
+}
+
+.navbar-nav>li, .navbar-nav {
+float: left;
+}
+
+.navbar-nav.navbar-right:last-child {
+margin-right: -15;
+}
+
+.navbar-right {
+float: right;
+}
+
+html body {
+    background-color: lightblue;
+ 
+}
+
+#line{
+    border:0;
+}
+
+
+

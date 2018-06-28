@@ -1,0 +1,22 @@
+ html body {
+    background-color: lightblue;
+ 
+}
+
+div {
+    border: 1px solid black
+    margin-top: 100px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightblue;
+    max-width:1000px;
+}
+
+#jumbo{
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightblue;
+    height: 100px;
+    max-width:1000px;
+}
